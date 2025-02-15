@@ -1,2 +1,2 @@
 # password-generator
-hehehehe
+# semoga anda sehat selalu
